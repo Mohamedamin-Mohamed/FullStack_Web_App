@@ -1,0 +1,474 @@
+{
+    "highScores": [
+      {
+        "rank": 1,
+        "initials": "LLL",
+        "score": 151
+      },
+      {
+        "rank": 2,
+        "initials": "LHJ",
+        "score": 139
+      },
+      {
+        "rank": 3,
+        "initials": "ASC",
+        "score": 124
+      },
+      {
+        "rank": 4,
+        "initials": "jk",
+        "score": 121
+      },
+      {
+        "rank": 5,
+        "initials": "MOH",
+        "score": 117
+      },
+      {
+        "rank": 6,
+        "initials": "XBGDGGD",
+        "score": 116
+      },
+      {
+        "rank": 7,
+        "initials": "XNNXN",
+        "score": 114
+      },
+      {
+        "rank": 8,
+        "initials": "DVDV",
+        "score": 113
+      },
+      {
+        "rank": 9,
+        "initials": "NFS",
+        "score": 113
+      },
+      {
+        "rank": 10,
+        "initials": "MA",
+        "score": 109
+      },
+      {
+        "rank": 11,
+        "initials": "VCXXB",
+        "score": 108
+      },
+      {
+        "rank": 12,
+        "initials": "MXCD",
+        "score": 103
+      },
+      {
+        "rank": 13,
+        "initials": "XCN",
+        "score": 102
+      },
+      {
+        "rank": 14,
+        "initials": "NT",
+        "score": 101
+      },
+      {
+        "rank": 15,
+        "initials": "NCNCN",
+        "score": 98
+      },
+      {
+        "rank": 16,
+        "initials": "XC",
+        "score": 97
+      },
+      {
+        "rank": 17,
+        "initials": "XC",
+        "score": 97
+      },
+      {
+        "rank": 18,
+        "initials": "ZCVC",
+        "score": 96
+      },
+      {
+        "rank": 19,
+        "initials": "VGYT",
+        "score": 95
+      },
+      {
+        "rank": 20,
+        "initials": "JVM",
+        "score": 89
+      },
+      {
+        "rank": 21,
+        "initials": "ASD",
+        "score": 89
+      },
+      {
+        "rank": 22,
+        "initials": "VC",
+        "score": 88
+      },
+      {
+        "rank": 23,
+        "initials": "JKM",
+        "score": 85
+      },
+      {
+        "rank": 24,
+        "initials": "MXMXM",
+        "score": 84
+      },
+      {
+        "rank": 25,
+        "initials": "UTF",
+        "score": 82
+      },
+      {
+        "rank": 26,
+        "initials": "VBN",
+        "score": 82
+      },
+      {
+        "rank": 27,
+        "initials": "GNCCGNCG",
+        "score": 82
+      },
+      {
+        "rank": 28,
+        "initials": "TIGR",
+        "score": 81
+      },
+      {
+        "rank": 29,
+        "initials": "VCVCVCVN",
+        "score": 80
+      },
+      {
+        "rank": 30,
+        "initials": "NXNXXN",
+        "score": 80
+      },
+      {
+        "rank": 31,
+        "initials": "XVXVX",
+        "score": 76
+      },
+      {
+        "rank": 32,
+        "initials": "XCF",
+        "score": 75
+      },
+      {
+        "rank": 33,
+        "initials": "MXMM",
+        "score": 74
+      },
+      {
+        "rank": 34,
+        "initials": "CMCMMC",
+        "score": 73
+      },
+      {
+        "rank": 35,
+        "initials": null,
+        "score": 72
+      },
+      {
+        "rank": 36,
+        "initials": "VXCVX",
+        "score": 72
+      },
+      {
+        "rank": 37,
+        "initials": "VVD",
+        "score": 71
+      },
+      {
+        "rank": 38,
+        "initials": "GH",
+        "score": 70
+      },
+      {
+        "rank": 39,
+        "initials": "HD",
+        "score": 70
+      },
+      {
+        "rank": 40,
+        "initials": "CMMCMCM",
+        "score": 67
+      },
+      {
+        "rank": 41,
+        "initials": "LVM",
+        "score": 66
+      },
+      {
+        "rank": 42,
+        "initials": "KDJKJKJZKJ",
+        "score": 64
+      },
+      {
+        "rank": 43,
+        "initials": "XC",
+        "score": 63
+      },
+      {
+        "rank": 44,
+        "initials": "ZCNNZN",
+        "score": 63
+      },
+      {
+        "rank": 45,
+        "initials": "BV ZDS",
+        "score": 63
+      },
+      {
+        "rank": 46,
+        "initials": "NXNXN",
+        "score": 61
+      },
+      {
+        "rank": 47,
+        "initials": "GHF",
+        "score": 59
+      },
+      {
+        "rank": 48,
+        "initials": "XBXB",
+        "score": 59
+      },
+      {
+        "rank": 49,
+        "initials": "CCNCN",
+        "score": 57
+      },
+      {
+        "rank": 50,
+        "initials": "SMNN",
+        "score": 57
+      },
+      {
+        "rank": 51,
+        "initials": "DSF",
+        "score": 54
+      },
+      {
+        "rank": 52,
+        "initials": "MNZZ",
+        "score": 54
+      },
+      {
+        "rank": 53,
+        "initials": "LJK",
+        "score": 53
+      },
+      {
+        "rank": 54,
+        "initials": "NCXMNNM ",
+        "score": 52
+      },
+      {
+        "rank": 55,
+        "initials": "FBF",
+        "score": 51
+      },
+      {
+        "rank": 56,
+        "initials": "MXMXM",
+        "score": 50
+      },
+      {
+        "rank": 57,
+        "initials": "AM",
+        "score": 47
+      },
+      {
+        "rank": 58,
+        "initials": "TN",
+        "score": 46
+      },
+      {
+        "rank": 59,
+        "initials": "UK",
+        "score": 45
+      },
+      {
+        "rank": 60,
+        "initials": "VCX",
+        "score": 45
+      },
+      {
+        "rank": 61,
+        "initials": "ZNNXCV",
+        "score": 44
+      },
+      {
+        "rank": 62,
+        "initials": "NVCCCNC",
+        "score": 43
+      },
+      {
+        "rank": 63,
+        "initials": "VXVXVX",
+        "score": 42
+      },
+      {
+        "rank": 64,
+        "initials": "AB",
+        "score": 41
+      },
+      {
+        "rank": 65,
+        "initials": "ABC",
+        "score": 41
+      },
+      {
+        "rank": 66,
+        "initials": "AR",
+        "score": 38
+      },
+      {
+        "rank": 67,
+        "initials": "FCXX",
+        "score": 36
+      },
+      {
+        "rank": 68,
+        "initials": "BF FN",
+        "score": 34
+      },
+      {
+        "rank": 69,
+        "initials": "MK",
+        "score": 33
+      },
+      {
+        "rank": 70,
+        "initials": "AT",
+        "score": 32
+      },
+      {
+        "rank": 71,
+        "initials": "LG",
+        "score": 32
+      },
+      {
+        "rank": 72,
+        "initials": "NVCCN",
+        "score": 32
+      },
+      {
+        "rank": 73,
+        "initials": "NB",
+        "score": 30
+      },
+      {
+        "rank": 74,
+        "initials": "NXNX",
+        "score": 30
+      },
+      {
+        "rank": 75,
+        "initials": "IK",
+        "score": 28
+      },
+      {
+        "rank": 76,
+        "initials": "CBB",
+        "score": 28
+      },
+      {
+        "rank": 77,
+        "initials": "F",
+        "score": 27
+      },
+      {
+        "rank": 78,
+        "initials": "CFN",
+        "score": 25
+      },
+      {
+        "rank": 79,
+        "initials": "TABLE",
+        "score": 22
+      },
+      {
+        "rank": 80,
+        "initials": "BCXBCX",
+        "score": 22
+      },
+      {
+        "rank": 81,
+        "initials": "MNCZ",
+        "score": 22
+      },
+      {
+        "rank": 82,
+        "initials": "XBXNNX",
+        "score": 22
+      },
+      {
+        "rank": 83,
+        "initials": "FF",
+        "score": 22
+      },
+      {
+        "rank": 84,
+        "initials": "BXBXB",
+        "score": 18
+      },
+      {
+        "rank": 85,
+        "initials": "AL",
+        "score": 16
+      },
+      {
+        "rank": 86,
+        "initials": "xbbxxb",
+        "score": 16
+      },
+      {
+        "rank": 87,
+        "initials": "ASDF",
+        "score": 15
+      },
+      {
+        "rank": 88,
+        "initials": "UI",
+        "score": 14
+      },
+      {
+        "rank": 89,
+        "initials": "FHMHM",
+        "score": 14
+      },
+      {
+        "rank": 90,
+        "initials": "KFJ",
+        "score": 11
+      },
+      {
+        "rank": 91,
+        "initials": "ZZCZVV",
+        "score": 11
+      },
+      {
+        "rank": 92,
+        "initials": "XBBXL",
+        "score": 11
+      },
+      {
+        "rank": 93,
+        "initials": "DJJDJ",
+        "score": 7
+      },
+      {
+        "rank": 94,
+        "initials": "XBXBBX",
+        "score": 5
+      }
+    ]
+  }
