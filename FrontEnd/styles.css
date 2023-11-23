@@ -1,0 +1,77 @@
+body {
+    background-color: black;
+    color: white;
+  }
+  
+  input {
+    background-color: black;
+    color: white;
+    width: 15px;
+    height: 15px;
+    font-size: 12px;
+    text-align: center;
+    font-family: monospace;
+    border-style: none;
+  }
+  
+  textarea {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    border-style: none;
+  }
+  
+  #instructions {
+    width: 400px;
+  }
+  
+  a {
+    color: white;
+  }
+  
+  a:active {
+    color: white;
+  }
+  
+  a:visited {
+    color: white;
+  }
+  
+  a:hover {
+    color: white;
+  }
+  
+  #up {
+    position: relative;
+    width: 50px;
+    left: 25px;
+  }
+  
+  #left {
+    width: 50px;
+  }
+  
+  #down {
+    position: relative;
+    left: 25px;
+    width: 50px;
+  }
+  
+  #right {
+    width: 50px;
+  }
+  
+  #container {
+    display: flex;
+  }
+  
+  /*This div will occupy 9/10 of the pages width*/
+  #container1 {
+    flex: 9;
+  }
+  
+  /*This div will be populated with the players stats, and will occupy 1/10 of the pages width*/
+  #table-container {
+    flex: 1;
+    background-color: black;
+  }
