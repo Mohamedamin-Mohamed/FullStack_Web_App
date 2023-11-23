@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>Robot Finds Kitten</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body onload="startgame()">
+  <!-- Main container for the game -->
+  <div id="container">
+    <div id="container1">
+
+      <!-- Include necessary JavaScript files -->
+      <script src="script.js"></script>
+      <script src="score.js"></script>
+      <script src="renderTable.js"></script>
+
+      <!-- Game title and heading -->
+      <h1>Robot Finds Kitten</h1>
+      <h2>A Zen Simulation</h2>
+
+      <!-- Main game form -->
+      <form action="#" name="rfk">
+
+        <!-- Script to draw the game board -->
+        <script type="text/javascript">
+          drawboard();
+        </script>
+
+        <!-- Display game status using a textarea -->
+        <div>
+          <textarea rows="3" cols="75" readonly="readonly" id="stat"></textarea>
+        </div>
+
+        <!-- Buttons for robot movement -->
+        <div>
+          <button id="up" onclick="move('up')">Up</button>
+        </div>
+        <div>
+          <button id="left" onclick="move('left')">Left</button>
+          <button id="right" onclick="move('right')">Right</button>
+        </div>
+        <div>
+          <button id="down" onclick="move('down')">Down</button>
+        </div>
+      </form>
+
+      <!-- Hidden form for additional game data -->
+      <form action="#" name="hidden">
+
+        <div id="hidden">
+          <!-- Hidden input fields for robot and kitten positions -->
+          <input type="hidden" id="robotr" />
+          <input type="hidden" id="robotc" />
+          <input type="hidden" id="kittens" />
+
+          <!-- Script to populate hidden fields -->
+          <script type="text/javascript">
+            hiddenfields();
+          </script>
+        </div>
+      </form>
+
+      <hr />
+
+      <!-- Game instructions -->
+      <p id="instructions">In this game, you are robot (#). Your job is to find kitten. This task
+        is complicated by the existence of various things which are not kitten.
+        Robot must touch items to determine if they are kitten or not. The game
+        ends when robotfindskitten. Alternatively, you may end the game by leaving the page.</p>
+
+      <!-- Additional information and links -->
+      <p>Download the original and find out more from <a href="http://www.robotfindskitten.org">robotfindskitten.org</a>
+      </p>
+      <hr />
+
+      <!-- Credits for the game -->
+      <p>Made by Thom Curtis; visit <a href="http://www.herdofnerds.net/">Herd of Nerds</a>.</p>
+    </div>
+
+    <!-- Container for the table -->
+    <div id='table-container'>
+    </div>
+  </div>
+
+</body>
+
+</html>
